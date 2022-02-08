@@ -1,0 +1,135 @@
+
+.block-editor-block-list__block.has-animation{
+    opacity: 1;
+    &.has-type-slideInUp{
+      animation-name: slideInUp;
+  }
+  &.has-type-slideInleft{
+      animation-name: slideInleft;
+  }
+  &.has-type-slideInDown{
+    animation-name: slideInDown;
+  }
+  &.has-type-slideInRight{
+    animation-name: slideInRight;
+  }
+  &.has-type-fadeIn{
+    animation-name: fadeIn;
+  }        
+  &.has-type-fadeInDown{
+    animation-name: fadeInDown;
+  }
+  &.has-type-fadeInUp{
+    animation-name: fadeInUp;
+  }
+  &.has-type-zoomIn{
+    animation-name: zoomIn;
+  }
+  &.has-type-zoomReverseIn{
+    animation-name: zoomReverseIn;
+  }
+  &.has-type-flipInY{
+    animation-name: flipInY;
+    transform-origin: right;
+  }
+  &.has-type-flipInX{
+    animation-name: flipInY;
+    transform-origin: left;
+  }
+  &.has-type-bounceInLeft{
+    animation-name: bounceInLeft;
+  }
+  &.has-type-bounceInRight{
+    animation-name: bounceInRight;
+  }
+  &.has-type-bounceIn{
+    animation-name: bounceInTwo;
+  }
+  &.has-type-lightSpeedIn{
+    animation-name: lightSpeedIn;
+  }
+  &.has-type-rotateIn{
+    animation-name: rotateIn;
+  }
+  &.has-type-rotateInDownLeft{
+    animation-name: rotateInDownLeft;
+  }
+  &.has-type-rotateInDownRight{
+    animation-name: rotateInDownRight;
+  }
+  &.has-type-fadeInDown{
+    animation-name: fadeInDown;
+  }
+  &.has-type-fadeInDownBig{
+    animation-name: fadeInDownBig;
+  }
+  &.has-type-flipUp{
+    animation-name: flipInX;
+    transform-origin: bottom;
+  }
+  &.has-type-flip{
+    animation-name: flipX;
+    -webkit-perspective: 1000;
+  }
+  &.has-type-verticalFlip{
+    animation-name: verticalFlip;
+    -webkit-perspective: 1000;
+  }
+  &.has-type-flipDown{
+    animation-name: flipInX;
+    transform-origin: top;
+  }
+  &.has-type-fadeInUpBig{
+    animation-name: fadeInUpBig;
+  }
+  &.has-type-fadeInRight{
+    animation-name: fadeInRight;
+  }
+  &.has-type-fadeInRightBig{
+    animation-name: fadeInRightBig;
+  }
+  &.has-type-fadeInLeft{
+    animation-name: fadeInLeft;
+  }
+  &.has-type-fadeInleftBig{
+    animation-name: fadeInLeftBig;
+  }
+  &.has-type-rubberBand{
+    animation-name: rubberBand;
+  }
+  &.has-type-backInLeft{
+    animation-name: backInLeft;
+  }
+  &.has-type-backInRight{
+    animation-name: backInRight;
+  }
+  &.has-type-backInUp{
+    animation-name: backInUp;
+  }
+  &.has-type-backInDown{
+    animation-name: backInDown;
+  }
+  &.has-type-rollIn{
+    animation-name: rollIn;
+  }
+  &.has-type-lightSpeedIn{
+    animation-name: lightSpeedIn;
+  }
+  &.has-type-hinge{
+    animation-name: hingeEditor;
+  }
+  &.has-type-hinge-vanish{
+    animation-name: hingeEditor;
+  }
+  &.has-type-wobble{
+    animation-name: wobble;
+  }
+  }
+  @keyframes hingeEditor {
+    0% {transform: rotate(0);transform-origin: top left;animation-timing-function: ease-in-out;}
+    20%, 60% {transform: rotate(80deg);transform-origin: top left;animation-timing-function: ease-in-out;}
+    40% {transform: rotate(60deg);transform-origin: top left;animation-timing-function: ease-in-out;}
+    80% {transform: rotate(60deg) translateY(0);transform-origin: top left;animation-timing-function: ease-in-out;}
+    85% {transform: translateY(700px);}
+    100% {transform: translateY(0px);}
+  }

@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-09-13 15:02-0400\n"
+"PO-Revision-Date: 2021-09-13 15:09-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-SearchPath-0: plugin.php\n"
+"X-Poedit-SearchPath-1: dist/editor.js\n"
+"X-Poedit-SearchPath-2: class-otterwp-animate-blocks.php\n"
+
+#: class-otterwp-animate-blocks.php:177 class-otterwp-animate-blocks.php:184
+msgid "huh?"
+msgstr ""
+
+#: dist/editor.js:43
+msgid "Ease"
+msgstr ""
+
+#: dist/editor.js:46
+msgid "Ease in"
+msgstr ""
+
+#: dist/editor.js:49
+msgid "Ease out"
+msgstr ""
+
+#: dist/editor.js:52
+msgid "Ease in out"
+msgstr ""
+
+#: dist/editor.js:55
+msgid "Linear"
+msgstr ""
+
+#: dist/editor.js:59
+msgid "None"
+msgstr ""
+
+#: dist/editor.js:62
+msgid "Hover Reset"
+msgstr ""
+
+#: dist/editor.js:65
+msgid "Hover Reset test"
+msgstr ""
+
+#: dist/editor.js:69
+msgid "Fade"
+msgstr ""
+
+#: dist/editor.js:72
+msgid "Fade up"
+msgstr ""
+
+#: dist/editor.js:75
+msgid "Fade down"
+msgstr ""
+
+#: dist/editor.js:78
+msgid "Fade left"
+msgstr ""
+
+#: dist/editor.js:81
+msgid "Fade right"
+msgstr ""
+
+#: dist/editor.js:84
+msgid "Fade Big right"
+msgstr ""
+
+#: dist/editor.js:87
+msgid "Fade Big left"
+msgstr ""
+
+#: dist/editor.js:90
+msgid "Flip"
+msgstr ""
+
+#: dist/editor.js:93
+msgid "Vertical Flip"
+msgstr ""
+
+#: dist/editor.js:96
+msgid "Flip up"
+msgstr ""
+
+#: dist/editor.js:99
+msgid "Flip down"
+msgstr ""
+
+#: dist/editor.js:102
+msgid "Flip left"
+msgstr ""
+
+#: dist/editor.js:105
+msgid "Flip right"
+msgstr ""
+
+#: dist/editor.js:108
+msgid "Slide up"
+msgstr ""
+
+#: dist/editor.js:111
+msgid "Slide down"
+msgstr ""
+
+#: dist/editor.js:114
+msgid "Slide left"
+msgstr ""
+
+#: dist/editor.js:117
+msgid "Slide right"
+msgstr ""
+
+#: dist/editor.js:120
+msgid "Zoom in"
+msgstr ""
+
+#: dist/editor.js:123
+msgid "Reverse Zoom In"
+msgstr ""
+
+#: dist/editor.js:126
+msgid "bounce In"
+msgstr ""
+
+#: dist/editor.js:129
+msgid "Bounce In Right"
+msgstr ""
+
+#: dist/editor.js:132
+msgid "Bounce In Left"
+msgstr ""
+
+#: dist/editor.js:135
+msgid "Bounce In Up"
+msgstr ""
+
+#: dist/editor.js:138
+msgid "Bounce In Down"
+msgstr ""
+
+#: dist/editor.js:141 dist/editor.js:162
+msgid "Light Speed"
+msgstr ""
+
+#: dist/editor.js:144 dist/editor.js:159
+msgid "Rubber Band"
+msgstr ""
+
+#: dist/editor.js:147
+msgid "Back In Left"
+msgstr ""
+
+#: dist/editor.js:150
+msgid "Back In Right"
+msgstr ""
+
+#: dist/editor.js:153
+msgid "Back In Up"
+msgstr ""
+
+#: dist/editor.js:156
+msgid "Back In down"
+msgstr ""
+
+#: dist/editor.js:165
+msgid "Roll In"
+msgstr ""
+
+#: dist/editor.js:168
+msgid "Hinge Out"
+msgstr ""
+
+#: dist/editor.js:171
+msgid "Hinge Out Vanish"
+msgstr ""
+
+#: dist/editor.js:174
+msgid "Wobble"
+msgstr ""
+
+#: dist/editor.js:256
+msgid "Animate Control"
+msgstr ""
+
+#: dist/editor.js:265
+msgid "Animate"
+msgstr ""
+
+#: dist/editor.js:279
+msgid "typeAnimate"
+msgstr ""
+
+#: dist/editor.js:294
+msgid "Easing"
+msgstr ""
+
+#: dist/editor.js:295 dist/editor.js:345
+msgid "easing function for animations"
+msgstr ""
+
+#: dist/editor.js:327
+msgid "Duration (ms)"
+msgstr ""
+
+#: dist/editor.js:344
+msgid "hover"
+msgstr ""

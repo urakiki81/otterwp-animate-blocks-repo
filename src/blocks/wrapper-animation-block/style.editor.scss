@@ -1,0 +1,78 @@
+.wp-block-otter-animate-blocks-animationblock.has-animation{
+    opacity: 1;
+  &.has-type-slideInUp{
+    animation-name: slideInUp;
+  }
+  &.has-type-slideInleft{
+      animation-name: slideInleft;
+  }
+  &.has-type-slideInDown{
+    animation-name: slideInDown;
+  }
+  &.has-type-slideInRight{
+    animation-name: slideInRight;
+  }
+  &.has-type-fadeIn{
+    animation-name: fadeIn;
+  }
+  &.has-type-zoomIn{
+    animation-name: zoomIn;
+  }
+  &.has-type-zoomReverseIn{
+    animation-name: zoomReverseIn;
+  }
+  &.has-type-flipInY{
+    animation-name: flipInY;
+  }
+  &.has-type-bounceInLeft{
+    animation-name: bounceInLeft;
+  }
+  &.has-type-bounceInRight{
+    animation-name: bounceInRight;
+  }
+  &.has-type-bounceIn{
+    animation-name: bounceInTwo;
+  }
+  &.has-type-lightSpeedIn{
+    animation-name: lightSpeedIn;
+  }
+  &.has-type-rotateIn{
+    animation-name: rotateIn;
+  }
+  &.has-type-rotateInDownLeft{
+    animation-name: rotateInDownLeft;
+  }
+  &.has-type-rotateInDownRight{
+    animation-name: rotateInDownRight;
+  }
+  &.has.type.fadeInDownBig{
+    animation-name: fadeInDownBig;
+  }
+  &.has-type-rotateInUpRight{
+    animation-name: rotateInDownRight;
+  }
+  &.has-type-fadeInUpBig{
+    animation-name: fadeInUpBig;
+  }
+  &.has-type-fadeInUp{
+    animation-name: fadeInUp;
+  }
+  &.has-type-fadeInDownBig{
+    animation-name: fadeInDown;
+  }
+  &.has-type-fadeInRightBig{
+    animation-name: fadeInRightBig;
+  }
+  &.has-type-fadeInRight{
+    animation-name: fadeInRight;
+  }
+  &.has-type-fadeInleftBig{
+    animation-name: fadeInLeftBig;
+  }
+  &.has-type-fadeInLeft{
+    animation-name: fadeInLeft;
+  }
+  &.has-type-rubberBand{
+    animation-name: rubberBand;
+  }
+  }
